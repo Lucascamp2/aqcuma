@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css?family=Abel");
+.menu {
+  background-image: url("../img/back.jpg");
+  height: 400px;
+  width: 100%;
+  background-size: 100%;
+  max-width: auto;
+  background-repeat: no-repeat; }
+
+.navbar {
+  background-color: transparent !important; }
+
+.navbar .navbar-brand {
+  color: #2196F3;
+  font-weight: bolder;
+  font-size: 1.7em; }
+
+.navbar .navbar-brand:hover {
+  color: #FFC107;
+  font-weight: bolder;
+  font-size: 1.7em; }
+
+.navbar .navbar-nav {
+  margin: 0 auto; }
+
+.navbar .nav-item a {
+  color: #2196F3 !important; }
+
+.navbar .dropdown-menu {
+  background-color: rgba(0, 0, 0, 0.3); }
+
+.conteudo {
+  height: 300px;
+  font-family: 'Abel', sans-serif;
+  font-size: 20px; }
+
+body .btn {
+  background-color: #2196F3;
+  color: white;
+  font-family: 'Abel', sans-serif; }
+
+body .btn:hover {
+  background-color: #FFC107;
+  color: white;
+  box-shadow: 1px 1px #53a7ea, 2px 2px #53a7ea, 3px 3px #53a7ea;
+  -webkit-transform: translateX(-3px);
+  transform: translateX(-3px); }
+
+.conteudo-2 h3 {
+  margin-top: 20px; }
+
+.conteudo-2 p {
+  font-size: 16px;
+  font-family: 'Abel', sans-serif; }
+
+.conteudo-2 .btn {
+  margin-left: 10px;
+  height: 40px;
+  font-size: 12px; }
+
+.conteudo-2 img {
+  width: 260px;
+  height: 180px;
+  border-radius: 5px;
+  background-size: cover;
+  display: block;
+  margin-right: auto;
+  margin-left: auto; }
+
+.conteudo-2 .col-4 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  width: 300px;
+  border-right: 2px solid #2196F3;
+  border-bottom: 2px solid #2196F3 50%; }
+
+.rodape {
+  height: 200px;
+  margin-top: 10px;
+  border-top: 2px solid #2196F3; }
+
+/*# sourceMappingURL=estilo.css.map */
